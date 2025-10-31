@@ -1,0 +1,24 @@
+# out 
+build/
+dist/
+
+# node modules
+node_modules/
+
+# environment variables
+.env
+.env.prod*
+
+# misc
+.DS_Store
+.vscode/
+.idea/
+uploads/
+
+# prisma
+/src/generated/prisma
+/generated/prisma
+
+# docker
+docker-compose.dev.yml
+Dockerfile.dev
