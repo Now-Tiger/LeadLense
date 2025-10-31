@@ -70,7 +70,8 @@ docker logs -f leadlens-core --tail 100
 docker exec -it postgres-db psql -U postgres -d leadlens_db
 ```
 
-API will be live at → **[http://localhost:8000](http://localhost:8000)**
+API will be live at → **[http://localhost:8000](http://localhost:8000)**<br>
+**Deployed API is live at** → **[https://nowtiger.dpdns.org](https://nowtiger.dpdns.org)**
 
 ---
 
